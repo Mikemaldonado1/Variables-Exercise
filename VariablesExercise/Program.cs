@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, Dog World!");
 
             const string M = "My Dog";
             int age = 4;
@@ -15,7 +15,7 @@
 
             string N = "Grizleigh";
 
-            Console.WriteLine($"My dog is wonderful. His name is {N} and he is only {age} years old");
+            Console.WriteLine($"{M} is wonderful. His name is {N} and he is only {age} years old");
 
 
         }

@@ -2,12 +2,15 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="VariablesExercise/Program.cs">
+    <Files>
+      <File FileName="VariablesExercise/Program.cs" Line="10" Column="25" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="VariablesExercise" expanded="True">
-            <Node name="VariablesExercise" selected="True" />
+            <Node name="VariablesExercise" expanded="True" />
           </Node>
         </State>
       </Pad>
